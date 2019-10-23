@@ -26,7 +26,7 @@
       <insensitiveSearch>false</insensitiveSearch>
     </hudson.search.UserSearchProperty>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>#jbcrypt:$2y$12$WmNv/jf.hqCDohMHqqKpj.yXd14I3sRyNw6uj4N.zt/dcRJF7bEZm.</passwordHash>
+      <passwordHash>#jbcrypt:$2y$12$WmNv/jf.hqCDohMHqqKpj.yXd14I3sRyNw6uj4N.zt/dcRJF7bEZm</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.11">
       <emailAddress>brodytwo@gmail.com</emailAddress>
